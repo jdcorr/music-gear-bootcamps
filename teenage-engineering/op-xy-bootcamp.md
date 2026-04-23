@@ -37,7 +37,7 @@ Deliverable:
 DAY 2: SNARE + HI-HAT BACKBEAT ✨
 Task:
 - Select snare key (guide shows using the ‘g’ key adjacent to kick)
-- Add snare to the 5th and 13th steps (backbeat), using the record-button “view only” trick
+- Add snare to the 5th and 13th steps (backbeat), using the record button “view only” trick
 - Select hi-hat key (guide shows ‘c#’)
 - Place hi-hat on every other step
 Deliverable:
